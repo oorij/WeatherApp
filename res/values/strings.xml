@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherMap</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">1008873716837-42k05e0ovhiq4ruo0g72dvi122lahn3q.apps.googleusercontent.com</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiamJhbmFnYSIsImEiOiJjbHdlZHFkdnExbWNyMmpsZHdyeXA4d2ppIn0.NIAGAxdY4KFBKWl3A4jT8g</string>
+</resources>
